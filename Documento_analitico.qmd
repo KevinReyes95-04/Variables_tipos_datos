@@ -1,6 +1,6 @@
 
 ---
-title: "Documento Analítico – Taller de Programación para SIG"
+title: "Documento Analítico – Taller 2 de Programación para SIG"
 author: "Kevin Orlando Reyes Mosquera"
 format:
   html:
